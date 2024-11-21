@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FSz064ygCwkp5EnVnRh5DDgUG3Jyr+fof6sKFAay2wFxdw5bJXTHk/01FIzGRhfYE1IH/8FhSb/iHOtSlRS6nw==",
+  "dgSpecHash": "7IfNnLEac9f0uN+tsl2xX1BFScQWjAeQsoXxjL9BrFSckxqiJRaQNb/LjlEx69zQwjA24osC0uoNGZaO03JfJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gmarques\\Documents\\Gabriel\\Person\\Person\\Person.csproj",
+  "projectFilePath": "C:\\Users\\gmarques\\Documents\\Gabriel\\CrudCSharp\\Person\\Person\\Person.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gmarques\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\gmarques\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
